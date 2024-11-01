@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+
+form{
+    border: 10px solid blue;
+    border-radius: 10px;
+    margin-left: 33%;
+    margin-top: 7%;
+    margin-right: 30%;
+    padding: 30px;
+}
+label{
+    color: white;
+    font-size: 30px;
+}
+textarea{
+    width: 80%;
+    height: 100px;
+ }
+input{
+    font-size: 30px;
+    border-radius: 10px;
+}
+button{
+    margin-left: 30%;
+    font-size: 20px;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
